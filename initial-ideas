@@ -1,0 +1,37 @@
+# Springboard Capstone Project – Initial Ideas
+
+This document outlines my three initial project ideas for the Capstone. Each includes a high-level concept, potential data sources, and why it’s interesting. My current top choice is highlighted at the end.
+
+---
+
+## 1. 🎣 TacklePacs: Lake-Specific Fishing Tackle Subscription Service
+
+**Concept:**  
+An e-commerce site offering curated fishing tackle kits (“pacs”) tailored to specific lakes, seasons, and fish species. Uses scraped and crowd-sourced fishing reports to identify trending lures and techniques.  
+
+**Data Sources:**  
+- **Custom API:** I will design an API and database to store fishing reports, guide updates, and tackle metadata.  
+- **External APIs (optional enrichment):**  
+  - OpenWeather (lake weather and conditions)  
+  - USGS (water levels)  
+  - Reddit/FB fishing groups (crowdsourced mentions)
+
+**Why:**  
+This ties directly to my entrepreneurial side (JWL Enterprises). It blends data scraping, full-stack development, and e-commerce features (Stripe checkout). It also demonstrates how to scale a model (start with Sam Rayburn Reservoir, then expand to other lakes).  
+➡️ **This is my current favorite project.**
+
+---
+
+## 2. 🚗 RoadTrip Planner App
+
+**Concept:**  
+An app for planning U.S. road trips with routes, stops, and attractions. Users can save trips, share them, and discover recommended restaurants, parks, and scenic drives.  
+
+**Data Sources:**  
+- **External APIs:**  
+  - Google Maps API (routes, travel times, attractions)  
+  - Yelp or TripAdvisor API (restaurants & reviews)  
+- **Custom API:** User login, saved trips, and favorites.  
+
+**Why:**  
+This app combines m
