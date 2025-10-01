@@ -34,4 +34,38 @@ An app for planning U.S. road trips with routes, stops, and attractions. Users c
 - **Custom API:** User login, saved trips, and favorites.  
 
 **Why:**  
-This app combines m
+This app combines mapping, user accounts, and integrations with major platforms. It’s widely relatable and demonstrates GIS/data integration, which aligns with my career interests.  
+
+---
+
+## 3. 🇨🇷 Costa Rica Retirement & Relocation Guide
+
+**Concept:**  
+A resource hub for retirees and expats considering Costa Rica. Features include cost-of-living calculators, healthcare options, visa guidance, real estate info, and local service directories. Could also include community features (Q&A, personal stories).  
+
+**Data Sources:**  
+- **External APIs:**  
+  - OpenExchangeRates (currency conversion)  
+  - OpenWeather (weather data)  
+- **Custom API:** Backend for articles, locations, and services.  
+- (Optional) Integration with Costa Rican government or embassy resources.  
+
+**Why:**  
+This project draws on my Peace Corps and relocation experience. It demonstrates my ability to build a content-driven, resource-rich platform with potential real-world use.  
+
+---
+
+## 🚀 Preferred Project
+
+My top choice is **TacklePacs** because it:  
+- Solves a real-world problem with entrepreneurial potential.  
+- Demonstrates database/API design from scratch.  
+- Has clear expansion potential (multi-lake dashboards, subscriptions, GIS maps).  
+
+---
+
+## Next Steps
+- Share these ideas with my mentor for feedback.  
+- Narrow down to a single project.  
+- Begin technical scoping and API exploration.  
+
